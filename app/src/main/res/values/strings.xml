@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiviewType-RecyclerView</string>
+    <string name="header_section">Header Section</string>
+    <string name="super_bikes">Super bikes</string>
+    <string name="footer_section">Footer Section</string>
+    <string name="footer">End of Bike List</string>
+    <string name="capture">Captured By :</string>
+</resources>
