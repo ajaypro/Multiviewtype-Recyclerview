@@ -5,4 +5,4 @@
  unused imports and other formating as well. 
 * To use this commet out the `apply from: 'ktlint.gradle'` from app.gradle file and run gradle tasks under formatting `ktlintFormat` and 
  for verification `ktlint`
- [https://ibb.co/FWM9mmv]
+ 
